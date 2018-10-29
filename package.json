@@ -1,0 +1,11 @@
+{
+  "name": "simple",
+  "private": true,
+  "scripts": {
+    "dev": "poi dev",
+    "build": "poi build"
+  },
+  "devDependencies": {
+    "poi": "next"
+  }
+}
