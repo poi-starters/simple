@@ -2,6 +2,14 @@
 
 > A simple web app starter for [Poi](https://poi.js.org).
 
+## Get Started
+
+```bash
+git clone https://github.com/poi-starters/simple.git my-project
+cd my-project
+yarn
+```
+
 ## Project Scripts
 
 ### `yarn dev`
