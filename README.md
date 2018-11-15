@@ -5,9 +5,7 @@
 ## Get Started
 
 ```bash
-git clone https://github.com/poi-starters/simple.git my-project
-cd my-project
-yarn
+npx sao poi-starters/simple my-project
 ```
 
 ## Project Scripts
