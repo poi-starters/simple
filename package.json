@@ -2,8 +2,8 @@
   "name": "simple",
   "private": true,
   "scripts": {
-    "dev": "poi dev",
-    "build": "poi build"
+    "dev": "poi --serve",
+    "build": "poi --prod"
   },
   "devDependencies": {
     "poi": "next"
